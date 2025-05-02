@@ -15,6 +15,15 @@ The issue we are seeking to explore is whether a high payroll, which generally s
 NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 
 
+### Data Dictionary
+### | Field Name | Description |
+| Date | The date the game was played |
+| Day of the week | The day of the week the game was played |
+| Winning Team Name | The winning team|
+| Loosing Team Name | [The loosing team |
+| Winning Team Score | The number of points by the winning team |
+
+
 ## Folders
 
 ### [code](code)
