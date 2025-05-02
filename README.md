@@ -13,7 +13,6 @@ The issue we are seeking to explore is whether a high payroll, which generally s
 ### [code](code)
 Contains code used for the project
 * **[juypter_notebooks](code/juypter_notebooks):** sub-folder containing Jupyter notebooks (.ipynb) used for the project
-* **[scripts](code/scripts):** sub-folder containing Python scripts (.py) used for the project
 
 ### [data](data)
 Contains data used for the project
