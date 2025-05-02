@@ -8,6 +8,12 @@ Our analysis focuses on examining the relationship between player salaries and t
 
 The issue we are seeking to explore is whether a high payroll, which generally signifies higher salaries for players, correlates with enhanced team performance. While it may seem logical that more expensive players would produce better results, various factors might influence the outcome. Through our analysis, we aim to uncover patterns or insights into how player compensation relates to overall team success.
 
+### Links
+
+1926 - 2024 NFL Scores--- https://www.kaggle.com/datasets/flynn28/1926-2024-nfl-scores 
+NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
+
+
 ## Folders
 
 ### [code](code)
