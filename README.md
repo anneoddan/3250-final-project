@@ -11,6 +11,7 @@ The issue we are seeking to explore is whether a high payroll, which generally s
 ### Links
 
 1926 - 2024 NFL Scores--- https://www.kaggle.com/datasets/flynn28/1926-2024-nfl-scores 
+
 NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 
 
