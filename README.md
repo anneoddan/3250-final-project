@@ -16,7 +16,8 @@ NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 
 
 ### Data Dictionary
-### | Field Name | Description |
+| Field Name | Description |
+| ------------- | ------------- |
 | Date | The date the game was played |
 | Day of the week | The day of the week the game was played |
 | Winning Team Name | The winning team|
