@@ -21,7 +21,7 @@ NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 | Date | The date the game was played |
 | Day of the week | The day of the week the game was played |
 | Winning Team Name | The winning team|
-| Loosing Team Name | [The loosing team |
+| Loosing Team Name | The loosing team |
 | Winning Team Score | The number of points by the winning team |
 
 
