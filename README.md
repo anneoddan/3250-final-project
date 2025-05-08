@@ -23,6 +23,28 @@ NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 | Winning Team Name | The winning team|
 | Loosing Team Name | The loosing team |
 | Winning Team Score | The number of points by the winning team |
+| Losing Team Score | The number of points scored by the losing team |
+| Type | The type of game |
+| Year | The season year |
+| Winning Rank | The winning team's salary cash ranking by season |
+| Winning Team Record | The winning team's win - loss - tie record |
+| Winning Signed Players | Total number of signed players on the winning team |
+| Winning Avg Age | Average age of the signed players on the winning team |
+| Winning Active Cash | The money that is currently allocated to players and counts against the winning team's salary cap for the season |
+| Winning Dead Cash | Money that is still owed to players from previous contract but is no longer counted against the winning team's active salary cap |
+| Winning Total Cash | The total amount of money players will earn in a given season, including both active and dead cash, of the winning team |
+| Loosing Rank | The losing team's salary cash ranking (1 being the hgihest total cash salary) by each season |
+| Losing Team Record | The losing team's win-loss-tie record
+| Losing Signed Players | Total number of signed players on the losing team |
+| Losing Avg Age | Average age of the signed players on the losing team |
+| Losing Active Cash | The money that is currently allocated to players and counts against the losing team’s salary cap for the season |
+| Losing Dead Cash | Money that is still owed to players from a previous contract but is no longer counted against the losing team’s active salary cap |
+| Losing Total Cash | The total amount of money players will earn in a given season, including both active and dead cash, of the losing team |
+
+
+
+
+
 
 
 ## Folders
