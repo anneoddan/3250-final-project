@@ -48,17 +48,27 @@ NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 
 
 ## Folders
-
-### [code](code)
-Contains code used for the project
-* **[juypter_notebooks](code/juypter_notebooks):** sub-folder containing Jupyter notebooks (.ipynb) used for the project
+### [Documents](Documents)
 - **Project Proposal Data Wrangling.docx** — Project proposal submitted.
 - **Data Wrangling Check In.pdf** — Check-in assignment slides submitted.
 - **Final Report Data Wrangling.docx** — Final report submitted.
 
+### [code](code)
+Contains code used for the project
+* **[juypter_notebooks](code/juypter_notebooks):** sub-folder containing Jupyter notebooks (.ipynb) used for the project
+- **FINAL Project Analysis.ipynb** — Performance metrics for models used in classifier regression analysis, while also doing visuals.
+- **Project Data Integration FINAL.ipynb** —Integrated the scraped and kaggle datasets.
+- **Scrape, Clean, Integration FINAL.ipynb** —Scrapped and cleaned the scraped data.
+  
 ### [data](data)
 Contains data used for the project
 * **[raw data](data/raw_data):** sub-folder containing the original, unclean data for the project
-* **[final data](data/final_data):** sub-folder containing the final, cleaned data for the project
+* **1926-2024_COMBINED_NFL_SCORES.csv** — Original data from Kaggle.
+* **nfl_salary_cash_2020_2024.csv** — Scraped original data from website.
 
+* **[final data](data/final_data):** sub-folder containing the final, cleaned data for the project
+* **cleaned_nfl_data.csv** — Includes date, day of the week, winnign team name, loosing team, winning team score, loosing team score, type, year, team name, rank, team, record, singed players, average age, active cash, dead cash and finally total cash.
+* **combined_nfl_data.csv** — Includes all data combined.
+* **nfl_salary_cash_2020_2024.csv** — Includes team information with their cash standings (active cash, dead cash, and total cash).
+**nfl_team_data.docx** — Includes information about each team, location, and season attached to that row. 
 
