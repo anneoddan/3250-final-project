@@ -52,6 +52,9 @@ NFL TEAMS scrapped --- https://www.spotrac.com/nfl/teams
 ### [code](code)
 Contains code used for the project
 * **[juypter_notebooks](code/juypter_notebooks):** sub-folder containing Jupyter notebooks (.ipynb) used for the project
+* - **Project Proposal.docx** — Project proposal submitted.
+- **Check In Presentation.pdf** — Check-in assignment slides submitted.
+- **Final Report.docx** — Final report submitted.
 
 ### [data](data)
 Contains data used for the project
