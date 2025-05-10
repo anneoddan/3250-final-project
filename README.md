@@ -58,5 +58,4 @@ Contains data used for the project
 * **[raw data](data/raw_data):** sub-folder containing the original, unclean data for the project
 * **[final data](data/final_data):** sub-folder containing the final, cleaned data for the project
 
-### [results](results)
-Folder where the project results may be stored
+
