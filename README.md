@@ -70,5 +70,5 @@ Contains data used for the project
 * **cleaned_nfl_data.csv** — Includes date, day of the week, winnign team name, loosing team, winning team score, loosing team score, type, year, team name, rank, team, record, singed players, average age, active cash, dead cash and finally total cash.
 * **combined_nfl_data.csv** — Includes all data combined.
 * **nfl_salary_cash_2020_2024.csv** — Includes team information with their cash standings (active cash, dead cash, and total cash).
-**nfl_team_data.docx** — Includes information about each team, location, and season attached to that row. 
+* **nfl_team_data.csv** — Includes information about each team, location, and season attached to that row. 
 
